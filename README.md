@@ -1,6 +1,6 @@
 # Front-end Practicum Task 6 - Book Search App - [patika.dev](https://www.patika.dev/bootcamp/fmss-bilisim-front-end-practicum)
 
-[![Generic badge](https://img.shields.io/badge/Netlify-DEMO-purple.svg)]()
+[![Generic badge](https://img.shields.io/badge/Netlify-DEMO-purple.svg)](https://task-6-book-search-app.netlify.app)
 
 ## Setup
 
